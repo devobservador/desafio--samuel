@@ -1,1 +1,1 @@
-console.log('salve rapaziada')
+console.log('salve')
